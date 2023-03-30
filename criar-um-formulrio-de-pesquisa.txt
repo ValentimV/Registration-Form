@@ -1,5 +1,3 @@
-** start of undefined **
-
 <!DOCTYPE html> 
 <html lang="en">
   <head>
@@ -43,7 +41,7 @@
       <div>
     <form id="survery-form">
     <fieldset id="survey-form">
-      <label for="description">Would you recommend freeCodeCamp to a friend?</label>
+      <label for="description">Would you recommend FreeCodeCamp to a friend?</label>
     <label for="definitely"><input id="definitely" name="account-type" class="inline" type="radio" value="definitely">Definitely
       </label>
       <label for="definitely"><input id="maybe" name="account-type" class="inline" type="radio" value="maybe">Maybe
@@ -162,12 +160,11 @@ textarea {
 }
 button {
   display: block;
-  width: 70%;
+  width: 50%;
   margin: 1em auto;
   height: 2em;
   font-size: 1.1rem;
   background-color: #32CD32;
-  min-width: 350px;
   border: none;
 }
 
